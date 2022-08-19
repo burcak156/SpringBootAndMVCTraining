@@ -1,4 +1,4 @@
-# SpringBootRestTrainingPractice
+# SpringBootAndMVCTrainingPractice
 
 
 * Spring Data JPA
@@ -7,6 +7,9 @@
 * Beans and Dependency Injection
 * Validation
 * Spring Boot Security
+
+* Spring MVC
+* Thymeleaf
 
 
 https://app.quicktype.io/
