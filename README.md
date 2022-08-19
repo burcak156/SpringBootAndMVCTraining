@@ -1,5 +1,12 @@
-# SpringBootAndMVCTraining
-Spring Boot And Spring MVC Training Practice
+# SpringBootRestTrainingPractice
+
+
+* Spring Data JPA
+* Spring Boot JPA Audit Logging
+* Spring Boot - Servlet Filter
+* Beans and Dependency Injection
+* Validation
+* Spring Boot Security
 
 
 https://app.quicktype.io/
